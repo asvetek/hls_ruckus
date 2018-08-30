@@ -1,0 +1,19 @@
+
+
+Implementation tool: Xilinx Vivado v.2017.2
+Project:             hls_ruckus_project
+Solution:            solution1
+Device target:       xc7vx690tffg1927-2
+Report date:         Thu Aug 30 10:22:53 CEST 2018
+
+#=== Post-Synthesis Resource usage ===
+SLICE:            0
+LUT:           1007
+FF:            1262
+DSP:              0
+BRAM:             0
+SRL:             43
+#=== Final timing ===
+CP required:    4.160
+CP achieved post-synthesis:    3.119
+Timing met
