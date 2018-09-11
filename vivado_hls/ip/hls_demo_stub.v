@@ -1,9 +1,9 @@
-// Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+// Copyright 1986-2016 Xilinx, Inc. All Rights Reserved.
 // --------------------------------------------------------------------------------
-// Tool Version: Vivado v.2017.2 (lin64) Build 1909853 Thu Jun 15 18:39:10 MDT 2017
-// Date        : Thu Aug 30 10:23:15 2018
+// Tool Version: Vivado v.2016.4 (lin64) Build 1756540 Mon Jan 23 19:11:19 MST 2017
+// Date        : Tue Sep 11 10:04:00 2018
 // Host        : moonraker.cern.ch running 64-bit Scientific Linux CERN SLC release 6.10 (Carbon)
-// Command     : write_verilog -force -mode synth_stub /data/alex/repos/hls_ruckus/vivado_hls/ip/hls_demo_stub.v
+// Command     : write_verilog -force -mode synth_stub /data/alex/tmp/hls_ruckus_2/hls_ruckus/vivado_hls/ip/hls_demo_stub.v
 // Design      : hls_demo
 // Purpose     : Stub declaration of top-level module interface
 // Device      : xc7vx690tffg1927-2
