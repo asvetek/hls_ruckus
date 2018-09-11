@@ -1,4 +1,4 @@
-# Define target output
+# Define default target (C synthesis without co-simulation)
 target: csyn_nocosim
 
 #
